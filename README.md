@@ -16,7 +16,7 @@ This repository provides the scripts and workflows used in the analysis.
 "Run_differential_gene_expression_analysis_using_GEO.R": Analyzes ADHD risk gene expression using RNA-seq data from GEO.
 
 3. Ancestry-Specific Analyses
-Ancestry_analysis_15genes.R: Compares variant burden across ancestries in ADHD cases and population reference datasets.
+Ancestry_analysis_15genes.ipynb: Compares variant burden across ancestries in ADHD cases and population reference datasets.
 
 4. ADHD-ASD Shared Genetic Architecture
 Run_Heterogeneity_test_between_ADHD_and_ASD.R: Tests for genetic heterogeneity between ADHD and ASD.
